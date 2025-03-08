@@ -1,0 +1,20 @@
+mailbox_identifier,user_full_name,job_title,department_id,manager_mailbox_identifier
+isabella.white@falafel.org,Isabella White,CEO,1,null
+david.brown@falafel.org,David Brown,CTO,2,isabella.white@falafel.org
+emma.davis@falafel.org,Emma Davis,Marketing Lead,3,isabella.white@falafel.org
+bob.smith@falafel.org,Bob Smith,Project Manager,2,david.brown@falafel.org
+charlie.lee@falafel.org,Charlie Lee,HR Coordinator,4,isabella.white@falafel.org
+frank.wilson@falafel.org,Frank Wilson,Sales Executive,5,isabella.white@falafel.org
+henry.moore@falafel.org,Henry Moore,Finance Manager,6,isabella.white@falafel.org
+alice.johnson@falafel.org,Alice Johnson,Software Engineer,2,bob.smith@falafel.org
+jack.taylor@falafel.org,Jack Taylor,Security Specialist,7,david.brown@falafel.org
+grace.miller@falafel.org,Grace Miller,Customer Support Lead,3,emma.davis@falafel.org
+lisa.evans@falafel.org,Lisa Evans,Senior Software Engineer,2,bob.smith@falafel.org
+steve.johnson@falafel.org,Steve Johnson,Product Manager,2,david.brown@falafel.org
+carol.green@falafel.org,Carol Green,Marketing Analyst,3,emma.davis@falafel.org
+michael.kelly@falafel.org,Michael Kelly,HR Specialist,4,charlie.lee@falafel.org
+nina.white@falafel.org,Nina White,Sales Manager,5,frank.wilson@falafel.org
+oliver.brown@falafel.org,Oliver Brown,Finance Analyst,6,henry.moore@falafel.org
+patricia.morris@falafel.org,Patricia Morris,Security Manager,7,jack.taylor@falafel.org
+paul.martin@falafel.org,Paul Martin,Software Engineer,2,alice.johnson@falafel.org
+karen.jackson@falafel.org,Karen Jackson,Customer Support,3,grace.miller@falafel.org
